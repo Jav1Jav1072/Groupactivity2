@@ -1,1 +1,2 @@
 # Groupactivity2
+Hello there, this is the readme file for my part of the group activity 2. Here we were asked to create our own webpage in order to present it, connecting it with our partner's webpages. In my case, my web page is connected with the group 3.
